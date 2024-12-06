@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Nikesh!
 
 ### 🚀 About Me
 I am a **DevOps Engineer** with a passion for optimizing cloud infrastructure and building scalable, efficient solutions. I also work as a **Full-Stack Developer**, crafting end-to-end applications that are robust, user-friendly, and performant.
@@ -27,4 +27,4 @@ I am a **DevOps Engineer** with a passion for optimizing cloud infrastructure an
 ### 📫 Let's Connect!
 - [LinkedIn](https://linkedin.com/in/ernikesh29)
 - [Twitter](https://twitter.com/ernikesh29)
-- Email: your-er.nikesh29@gmail.com
+- Email: er.nikesh29@gmail.com
