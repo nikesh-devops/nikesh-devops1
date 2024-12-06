@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Nikesh!
+# 👋 Hi, I'm Nikesh Pandey 👋
 
 ### 🚀 About Me
-I am a **DevOps Engineer** with a passion for optimizing cloud infrastructure and building scalable, efficient solutions. I also work as a **Full-Stack Developer**, crafting end-to-end applications that are robust, user-friendly, and performant.
+Welcome to my GitHub profile! I'm a passionate Tech Enthusiast with expertise in building full-stack web applications, cloud infra, especially in AWS, Azure, Python, PHP, Node.js, and other modern technologies. I love working on scalable solutions and contributing to the open-source community.
 
 ### 🌟 My Expertise
 - **DevOps & Cloud**: 
