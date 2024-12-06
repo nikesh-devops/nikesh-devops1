@@ -22,7 +22,7 @@ I am a **DevOps Engineer** with a passion for optimizing cloud infrastructure an
 - Deployment: Serverless, Terraform, CloudFormation
 
 ### 📈 My Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-ernikesh29&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ernikesh29&show_icons=true&theme=radical)
 
 ### 📫 Let's Connect!
 - [LinkedIn](https://linkedin.com/in/ernikesh29)
