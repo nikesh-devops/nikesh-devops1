@@ -25,6 +25,6 @@ Welcome to my GitHub profile! I'm a passionate Tech Enthusiast with expertise in
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ernikesh29&show_icons=true&theme=radical)
 
 ### 📫 Let's Connect!
-- [LinkedIn](https://linkedin.com/in/ernikesh29)
-- [Twitter](https://twitter.com/ernikesh29)
-- Email: er.nikesh29@gmail.com
+- [LinkedIn](https://linkedin.com/in/nikesh2937)
+- [Twitter](https://twitter.com/nikesh2937)
+- Email: nikesh2937@gmail.com
